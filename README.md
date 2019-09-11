@@ -1,5 +1,5 @@
 # jscript
-java program
+
 DOM- document object model: An application program interface (API) for HTML and XML documents.It defines the logical structure of document and the way document is acessed and manipulated. it closely resembles the structure of the document it models for instance                       <TABLE>
       <TBODY> 
       <TR> 
