@@ -12,6 +12,8 @@ DOM- document object model: An application program interface (API) for HTML and 
       </TR> 
       </TBODY>
       </TABLE> 
+      
+    BELOW: The DOM represents this table like this:
                   
                                     <TABLE>
                                        |
